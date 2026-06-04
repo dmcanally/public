@@ -1,0 +1,53 @@
+# macOS
+.DS_Store
+._*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Packaging / env files
+.env
+.env.*
+
+# Misc logs
+*.log
+
+# Archives and binaries
+*.zip
+*.tar
+*.tgz
+*.gz
+*.bz2
+*.7z
+*.rar
+*.o
+*.so
+*.dll
+*.dylib
+*.exe
