@@ -1,6 +1,6 @@
-# Flashlight Wall Mount Generator
+# Wall Mount Flashlight Holder
 
-This folder contains a Python script that generates a 4-slot flashlight wall mount as a mesh file for 3D printing.
+This folder contains a Python script that generates a 4-slot flashlight holder 3D model that can be 3D printed. The model can be mounted on the wall with command strips.
 
 ## Rendering
 
@@ -10,7 +10,7 @@ This folder contains a Python script that generates a 4-slot flashlight wall mou
 
 - generate_flashlight_mount.py: Model generator script.
 - flashlight_wall_mount.3mf: Last generated output mesh.
-- flashlight_wall_mount_render.svg: Preview rendering used in this README.
+- flashlight_wall_mount_render.png: Preview rendering used in this README.
 
 ## What It Generates
 
